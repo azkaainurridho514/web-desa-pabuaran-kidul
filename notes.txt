@@ -1,0 +1,8 @@
+schema database
+
+-   pengaduan masyarakat ✅
+-   aspirasi warga ✅
+-   ruang usulan kegiatan ✅
+-   pendataan penduduk sementara / pindah dan datang ✅
+-   direktori umkm lokal ✅
+-   formulir pendaftaran umkm ✅
